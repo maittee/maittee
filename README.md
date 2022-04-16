@@ -4,7 +4,7 @@
  at <a href=https://www.ungs.edu.ar"> Universidad Nacional de General Sarmiento</a>. 
 
 <!--Contador de visitas-->
-<br>
+<br><br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="maitenaescalada" /> </p>
   
 <hr></hr>
