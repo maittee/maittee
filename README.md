@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Maitena Escalada</h1>
-<h3 align="center">I’m from Buenos Aires, Argentina and I'm studying <a href="https://www.ungs.edu.ar/carrera/licenciatura-en-sistemas">Bachelor 
- of Systems</a> and <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica"> Technician in Computer Science</a>
- at <a href=https://www.ungs.edu.ar"> Universidad Nacional de General Sarmiento</a>. 
+<h3 align="center">I’m from Buenos Aires, Argentina and I'm a <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica"> University Technician in Computer Science</a>  at <a href=https://www.ungs.edu.ar"> Universidad Nacional de General Sarmiento</a>. 
 
 <!--Contador de visitas-->
 <br><br>
