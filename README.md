@@ -29,9 +29,9 @@
       JavaScript / React
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><br />
+      <img src="https://skillicons.dev/icons?i=mssql,postgres,oracle" alt="Databases" /><br />
       <strong>Databases</strong><br />
-      SQL (MS / Oracle)
+      SQL Server / PostgreSQL / Oracle
     </td>
   </tr>
   <tr>
