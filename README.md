@@ -44,10 +44,8 @@
 ---
 
 ### 📊 My stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maittee&show_icons=true&theme=nord&hide_border=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maittee&layout=compact&theme=nord&hide_border=true" alt="Langs" height="150" />
-</div>
+![Maitena's Stats](https://github-readme-stats.vercel.app/api?username=maittee&show_icons=true&theme=nord&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maittee&layout=compact&theme=nord&hide_border=true)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="views" />
