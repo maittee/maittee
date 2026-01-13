@@ -18,17 +18,37 @@
 ### 🛠 Tech Stack
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cs,python,dotnet" alt="Languages" /><br />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=cs,python,dotnet" alt="Backend" /><br />
+      <strong>Backend & Logic</strong><br />
       C# / Py / .NET
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=js,react" alt="Frontend" /><br />
+      <strong>Frontend</strong><br />
+      JavaScript / React
+    </td>
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><br />
+      <strong>Databases</strong><br />
       SQL (MS / Oracle)
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=git,gitlab" alt="Tools" /><br />
+      <strong>Version Control</strong><br />
       Git / GitLab
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.worldvectorlogo.com/logos/uipath-1.svg" alt="UiPath" height="45" /><br />
+      <strong>Automation</strong><br />
+      UiPath RPA
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html,css" alt="Web Basics" /><br />
+      <strong>Web Basics</strong><br />
+      HTML5 / CSS3
     </td>
   </tr>
 </table>
