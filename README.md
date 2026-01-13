@@ -4,6 +4,9 @@
   <p>Building reliable solutions with a <i>"What if..."</i> mindset.</p>
 </div>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="views" />
+</p>
 ---
 
 ### 💻 Professional Profile
@@ -39,15 +42,4 @@
   <a href="https://gitlab.com/maitte" target="blank">
     <img src="https://i.ibb.co/rvwz9fw/gitlab1.png" alt="GitLab" height="30" width="40" />
   </a>
-</p>
-
----
-
-### 📊 My stats
-<div align="center">
-  <img src="https://metrics.lecoq.io/maittee?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FArgentina%2FBuenos_Aires" alt="GitHub Metrics" width="100%" />
-</div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="views" />
 </p>
