@@ -1,21 +1,54 @@
-<h1 align="center">Hi, I'm Maitena Escalada</h1>
-<h3 align="center">I’m from Buenos Aires, Argentina and I'm a <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica"> University Technician in Computer Science</a>  at <a href=https://www.ungs.edu.ar"> Universidad Nacional de General Sarmiento</a>. 
+<div align="center">
+  <h1>Hi there, I'm Maitena! 👋</h1>
+  <p><strong>Software Developer | University Technician in Computer Science</strong></p>
+  <p>Building reliable solutions with a <i>"What if..."</i> mindset.</p>
+</div>
 
-<!--Contador de visitas-->
-<br><br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="maitenaescalada" /> </p>
-  
-<hr></hr>
- 
-<ul>
-  <li>👀 I’m interested in programming, learn new things</li>
-  <li>🌱 I’m currently learning web programming</li>
-  <li>💞️ I’m looking to collaborate on projects that increase my knowledge</li>
-  <li>📫 How to reach me, by email: maitena_escalada@hotmail.com</li>
-</ul>
-  
+---
+
+### 💻 Professional Profile
+- 🔍 **Detail-Oriented & Curious:** I don't just make things work; I anticipate edge cases and ensure software reliability through deep analysis.
+- 🏗️ **Strategic Collaboration:** I thrive when involved in architectural design and solution analysis, bringing a structured approach to every project phase.
+- 📊 **Organized Execution:** Committed to clean code, thorough documentation, and high-quality deliveries.
+
+### 🛠 Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cs,python,dotnet" alt="Languages" /><br />
+      C# / Py / .NET
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /><br />
+      SQL (MS / Oracle)
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git,gitlab" alt="Tools" /><br />
+      Git / GitLab
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/maitena-escalada-palma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitena_escalada_palma" height="30" width="40" /></a>
-<a href="https://gitlab.com/maitte" target="blank"><img align="center" src="https://i.ibb.co/rvwz9fw/gitlab1.png" alt="gitlab" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/maitena-escalada-palma/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://gitlab.com/maitte" target="blank">
+    <img src="https://i.ibb.co/rvwz9fw/gitlab1.png" alt="GitLab" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 My stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maittee&show_icons=true&theme=nord&hide_border=true" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maittee&layout=compact&theme=nord&hide_border=true" alt="Langs" height="150" />
+</div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="views" />
 </p>
