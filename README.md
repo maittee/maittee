@@ -44,8 +44,9 @@
 ---
 
 ### 📊 My stats
-![Maitena's Stats](https://github-readme-stats.vercel.app/api?username=maittee&show_icons=true&theme=nord&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maittee&layout=compact&theme=nord&hide_border=true)
+<div align="center">
+  <img src="https://metrics.lecoq.io/maittee?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FArgentina%2FBuenos_Aires" alt="GitHub Metrics" width="100%" />
+</div>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=maittee&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="views" />
